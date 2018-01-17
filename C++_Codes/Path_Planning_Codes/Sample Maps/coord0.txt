@@ -1,0 +1,3 @@
+start_point: 0, 0
+end_point(Gazebo): 39.0, 39.0
+end_point(2048): 780, 780
