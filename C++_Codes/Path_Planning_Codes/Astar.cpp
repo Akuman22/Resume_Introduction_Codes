@@ -598,6 +598,7 @@ vector<double> SpeedList(vector<vector<int>> Line, vector<idmap> angleList) {
     return speedlist;
 }
 
+
 /////////////////////////////////////////////////////////////////////////////////
 //                          Function Definition
 //   Name  - Heuristic(Manhatten Distance)
